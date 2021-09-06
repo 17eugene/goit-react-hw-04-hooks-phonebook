@@ -1,0 +1,15 @@
+.filter_label {
+  display: flex;
+  flex-direction: column;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  line-height: 2.5;
+}
+
+.filter_wrapper {
+  margin-top: 30px;
+}
+
+.filter_input {
+  width: 150px;
+}
